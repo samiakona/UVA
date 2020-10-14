@@ -1,4 +1,7 @@
 #include<stdio.h>
+
+//Summation of two number
+
 int main()
 {
     int X, A, B;
